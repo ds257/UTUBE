@@ -1,0 +1,37 @@
+personas:
+- name: politics_left_01
+  platform:
+  - youtube
+  - tiktok
+  keywords:
+  - election fraud debunked
+  - progressive policies
+  videos_per_day: 50
+  user_data_dir: ./profiles/politics_left_01
+- name: politics_right_01
+  platform:
+  - youtube
+  - tiktok
+  keywords:
+  - election fraud evidence
+  - conservative policies
+  videos_per_day: 50
+  user_data_dir: ./profiles/politics_right_01
+- name: fitness_01
+  platform:
+  - youtube
+  - tiktok
+  keywords:
+  - home workouts
+  - 10 min abs
+  videos_per_day: 50
+  user_data_dir: ./profiles/fitness_01
+- name: neutral_01
+  platform:
+  - youtube
+  - tiktok
+  keywords:
+  - music
+  - news
+  videos_per_day: 50
+  user_data_dir: ./profiles/neutral_01
